@@ -6,36 +6,10 @@
 
 一个基于 React Native 打造的现代化移动应用示例项目，展示了一系列实用的功能组件和最佳实践。
 
-## 👀 预览
-
-### 滚动截屏（长图）
+## 👀 长图预览
 
 - [首页](snapshot/home.png)
 - [关于](snapshot/about.png)
-
-### 截屏
-
-<div>
-  <img src="snapshot/home-page.png" alt="home" width="200" />
-  <img src="snapshot/todo-page.png" alt="todo" width="200" />
-  <img src="snapshot/about-page.png" alt="about" width="200" />
-</div>
-
----
-
-<div>
-  <img src="snapshot/todo-drawer.png" alt="todo-drawer" width="200" />
-  <img src="snapshot/todo-swipe.png" alt="todo-swipe" width="200" />
-  <img src="snapshot/todo-edit.png" alt="todo-edit" width="200" />
-</div>
-
----
-
-<div>
-  <img src="snapshot/player.png" alt="player" width="200" />
-  <img src="snapshot/swipeable.png" alt="swipeable" width="200" />
-  <img src="snapshot/code-demo.png" alt="code-demo" width="200" />
-</div>
 
 ## ✨ 项目说明
 
@@ -47,13 +21,17 @@
   - 首页嵌套 Bottom Tabs Navigator，实现底部标签页切换
 - 🔗 **Deep Link**：支持通过 `awsrn://` URL scheme 唤起应用（路径参数暂不支持）
 
-## 🌟 功能模块
+## 🌟 功能介绍
 
 ### 🏠 首页
 
 - 演示 React Native 的核心组件与功能特性
 - 提供交互式示例和代码片段展示
 - 帮助开发者快速了解 React Native 的能力边界
+
+<div align="center">
+  <img src="snapshot/home-page.png" alt="home" width="200" />
+</div>
 
 ### ✅ 待办事项管理
 
@@ -68,11 +46,51 @@
   - 完整的 CRUD 操作：添加、编辑、删除、恢复、清空
   - 四象限分类功能（紧急度 × 重要性矩阵）
 
-### 🎵 音乐播放器
+<div align="center">
+  <img src="snapshot/todo-page.png" alt="home" width="200" />
+</div>
+
+### 关于页
+
+项目 README.md 
+
+<div align="center">
+  <img src="snapshot/about-page.png" alt="about" width="200" />
+</div>
+
+### 🎵 音乐播放器（首页功能演示 -> Audio)
 
 - 基于 react-native-track-player 实现专业级音频播放
 - 支持歌单管理、后台播放等核心功能
 - 进度条拖拽使用 react-native-gesture-handler 实现，优雅解决与导航返回手势的冲突
+
+<div align="center">
+  <img src="snapshot/player.png" alt="home" width="200" />
+</div>
+
+## 部分功能截屏
+
+### 待办导航、swipeable 侧面板、编辑窗口
+
+<div align="center">
+  <img src="snapshot/todo-drawer.png" alt="todo-drawer" width="200" />
+  <img src="snapshot/todo-swipe.png" alt="todo-swipe" width="200" />
+  <img src="snapshot/todo-edit.png" alt="todo-edit" width="200" />
+</div>
+
+---
+
+### swipeable 演示
+<div align="center">
+  <img src="snapshot/swipeable.png" alt="swipeable" width="200" />
+</div>
+
+---
+
+### 功能演示（交互操作、示例代码）
+<div align="center">
+  <img src="snapshot/code-demo.png" alt="code-demo" width="200" />
+</div>
 
 ## 📦 技术选型
 
