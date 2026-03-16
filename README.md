@@ -6,6 +6,37 @@
 
 一个基于 React Native 打造的现代化移动应用示例项目，展示了一系列实用的功能组件和最佳实践。
 
+## 👀 预览
+
+### 滚动截屏（长图）
+
+- [首页](snapshot/home.png)
+- [关于](snapshot/about.png)
+
+### 截屏
+
+<div>
+  <img src="snapshot/home-page.png" alt="home" width="200" />
+  <img src="snapshot/todo-page.png" alt="todo" width="200" />
+  <img src="snapshot/about-page.png" alt="about" width="200" />
+</div>
+
+---
+
+<div>
+  <img src="snapshot/todo-drawer.png" alt="todo-drawer" width="200" />
+  <img src="snapshot/todo-swipe.png" alt="todo-swipe" width="200" />
+  <img src="snapshot/todo-edit.png" alt="todo-edit" width="200" />
+</div>
+
+---
+
+<div>
+  <img src="snapshot/player.png" alt="player" width="200" />
+  <img src="snapshot/swipeable.png" alt="swipeable" width="200" />
+  <img src="snapshot/code-demo.png" alt="code-demo" width="200" />
+</div>
+
 ## ✨ 项目说明
 
 - 📱 **技术栈**：使用 React Native (v0.83.1) 框架开发，主要适配 iOS 平台，Android 平台适配中...
