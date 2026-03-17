@@ -123,6 +123,6 @@ npm run android
 
 ## ☕️ 源码地址
 
-项目开源在 GitHub：[kiinlam/awesomer-nr](https://github.com/kiinlam/awesomer-nr)
+项目开源在 GitHub：[kiinlam/awesomer-rn](https://github.com/kiinlam/awesomer-rn)
 
 欢迎 ⭐️ Star 支持，也期待 🐛 Issue 和 💡 PR 改进！

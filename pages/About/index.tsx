@@ -10,7 +10,7 @@ const GithubButton = () => (
     activeOpacity={0.6}
     style={[css.mr_16, css.rounded, css.bg_lightgray]}
     onPress={() => {
-      Linking.openURL('https://github.com/kiinlam/awesomer-nr');
+      Linking.openURL('https://github.com/kiinlam/awesomer-rn');
     }}
   >
     <Ionicons
@@ -178,7 +178,7 @@ export default function About() {
         <ThemeText style={headerStyle}>☕️ 源码地址</ThemeText>
         <ThemeText style={textStyle}>
           项目开源在 GitHub：{" "}
-          <ALink url="https://github.com/kiinlam/awesomer-nr" text="kiinlam/awesomer-nr" />
+          <ALink url="https://github.com/kiinlam/awesomer-rn" text="kiinlam/awesomer-rn" />
         </ThemeText>
         <ThemeText style={textStyle}>
           欢迎 ⭐️ Star 支持，也期待 🐛 Issue 和 💡 PR 改进！
